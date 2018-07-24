@@ -1,0 +1,7 @@
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\bin\Debug\prj_cliente.exe
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\bin\Debug\prj_cliente.pdb
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\obj\x86\Debug\prj_cliente.frmClientes.resources
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\obj\x86\Debug\prj_cliente.Properties.Resources.resources
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\obj\x86\Debug\prj_cliente.csproj.GenerateResource.Cache
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\obj\x86\Debug\prj_cliente.exe
+G:\Meus Arquivos\ETEC\DS\Prova\prj_cliente\prj_cliente\obj\x86\Debug\prj_cliente.pdb
